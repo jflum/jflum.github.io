@@ -51,11 +51,11 @@ Ethics Papers
 Presentations
 -------------
 
-### [Playstation Network Breach and Outage](/pdf/Presentation_1_CSCI_301.pdf) | #### [watch video](https://youtu.be/nxjtsQdpTRY)
+### [Playstation Network Breach and Outage](/pdf/Presentation_1_CSCI_301.pdf)
 
 - **Class:** CSCI 301 - Survey of Scripting Languages 
 - **Grade:** A
-
+- [Watch video](https://youtu.be/nxjtsQdpTRY)
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
 
