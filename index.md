@@ -57,10 +57,10 @@ Presentations
 - **Grade:** A
 - [Watch video](https://youtu.be/nxjtsQdpTRY)
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics in Computer Benchmarking](/pdf/Presentation_2_CSCI_209.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 209 - Introduction to Computers
+- **Grade:** A
 
 ---
 
