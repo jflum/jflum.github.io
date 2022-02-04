@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Dangerous Dave in Copyright Infringement](/pdf/paper_1_csci_301.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 301 - Survey of Scripting Languages 
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Malpractice Makes Perfect](/pdf/paper_2_csci_315.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 315 - Data Structure Analysis
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Advances Through Impartiality](/pdf/paper_3_csci_332.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 332 - Applied Networking
+-   **Grade:** A
 
 ---
 
