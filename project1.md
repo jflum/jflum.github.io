@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Fatal Exception
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 325 - Object-Oriented Programming
+-   **Grade:** A
+-   **Language(s):** Java
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Fatal Exception is an interactive, text based adventure game that provides the user with a bite-sized role playing experience where danger lurks around every corner. Take advantage of player customization and build your hero as a warrior, a mage, or even a thief! Battle ferocious foes and menacing monsters in your quest to defeat the endless tormenter: Infinite Loop. Every playthough requires a different strategy—will you survive and claim untold riches and glory, flee to fight another day, or succumb to your peril?
 
 ## How to compile and run the program
 
@@ -30,19 +30,17 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/p1-f1.jpg)  
+Fig 1. Fatal Exception's launch screen.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/p1-f2.jpg)  
+Fig 2. A difficult encounter, narrowly escaped.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/p1-f3.jpg)  
+Fig 3. Failure screen with game results.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Minimum requirements: JDK14 (v58.0 class files).
 
 [Back to Portfolio](./)
