@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Fatal Exception | CSCI 325](project1)
 
-![Fatal Exception title screen](images/p1-f1.jpg)
+![Fatal Exception title screen](images/p1f1.jpg)
 
 ---
 ### [HTML Parser & Web Crawler | CSCI 315](project2)
