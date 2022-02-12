@@ -70,7 +70,7 @@ Upon defeat, a results screen is displayed, summarizing your adventure; addition
 ![screenshot](images/p1f11.jpg)  
 *Figure 11. The final enounter of the game, brought to you by cheat codes.*
 
-## 3. Additional Considerations
+## Additional Considerations
 
 Minimum requirements: JDK14 (v58.0 class files). 
 ```bash
