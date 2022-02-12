@@ -15,14 +15,11 @@ Fatal Exception is an interactive, text based adventure game that provides the u
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```bash
-cd ./project
-python setup.py
+cd FatalException
+javac src/fatalexception/*.java -d ./
+java src/fatalexception/FatalException
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
@@ -41,6 +38,12 @@ Fig 3. Failure screen with game results.
 
 ## 3. Additional Considerations
 
-Minimum requirements: JDK14 (v58.0 class files).
+Minimum requirements: JDK14 (v58.0 class files). 
+```bash
+sudo apt install openjdk-17-jdk-headless
+```
+
+Best displayed in an 80 by 28 terminal with word wrapping disabled.
+
 
 [Back to Portfolio](./)
