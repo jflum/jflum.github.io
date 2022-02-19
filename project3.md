@@ -36,9 +36,9 @@ Beginning the game, I attempt several guesses, initially halving the possibiliti
 ![screenshot](images/p3f3.jpg)  
 *Figure 3. The magic number is found, resulting in a success message, total turn display, and retry options.*
 
-Once the magic number has been found, the total number of turns required is presented. In this case it took me 9 guesses, which is average. From here, I can choose to either play again or to quit the program (as seen previously in Fig. 3). Selecting “yes …” to play again allows for a new, perhaps more challenging difficulty to be selected (Fig. 4).  
-![screenshot](images/p3f4.jpg)  
+Once the magic number has been found, the total number of turns required is presented. In this case it took me 9 guesses, which is average. From here, I can choose to either play again or to quit the program (as seen previously in Fig. 3). Selecting “yes …” to play again allows for a new, perhaps more challenging difficulty to be selected (Fig. 4).
 
+![screenshot](images/p3f4.jpg)
 *Figure 4. Attempting to correctly guess the 'Expert' difficulty number.*
 
 ## Additional Considerations
