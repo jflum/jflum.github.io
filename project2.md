@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Fatal Exception
+HTML Parser & Web Crawler
 ===============
 
 -   **Class:** CSCI 315 - Data Structure Analysis
@@ -23,7 +23,7 @@ make
 
 ## UI Design
 
-This program accepts either a single HTML page or multiple files as its parameter(s). The directory ‘pages’ contains sample webpages that will be used for demonstration, though any file could be analyzed. Let’s begin with one input; I’ve listed the contents of the ‘pages’ directory and run the program solely specifying the file ‘pages/index.html’ (Fig. 1). The result is that the page is in fact balanced, but cannot visit any other pages. This can be confirmed by viewing the HTML of this simple file directly (Fig. 2). 
+This program accepts either a single HTML page or multiple files as its parameter(s). The directory ‘pages’ contains sample webpages that will be used for demonstration, though any file could be analyzed. Note that parsing and crawling live webpages/websites is out of scope and therefore untested. Let’s begin with one local input; I’ve listed the contents of the ‘pages’ directory and run the program solely specifying the file ‘pages/index.html’ (Fig. 1). The result is that the page is in fact balanced, but cannot visit any other pages. This can be confirmed by viewing the HTML of this simple file directly (Fig. 2). 
 
 ![screenshot](images/p2f1.jpg)  
 *Figure 1. A listing of sample HTML pages; program output with 'pages/index.html' as a parameter.*
@@ -31,7 +31,7 @@ This program accepts either a single HTML page or multiple files as its paramete
 ![screenshot](images/p2f2.jpg)  
 *Figure 2. The contents of the 'index.html' sample file.*
 
-Note that while ‘index.html’ contains a syntactically correct link to another page, ‘pokemon.html,’ this page was not included as a parameter, and therefore is invalid (it cannot be visited). Let’s run the program again, but include both files (Fig. 3). We now see an expected output for ‘index.html.’ That is, it can visit the one and only link contained within it. But what about the links a subsequent page could visit? We are still not accounting for all recursively visited pages. 
+Note that while ‘index.html’ contains a syntactically correct link to another page, ‘pokemon.html,’ this page was not included as a parameter, and therefore is invalid (it cannot be visited). Let’s run the program again, but include both files (Fig. 3). We now see an expected output for ‘index.html.’ That is, it can visit the one and only link contained within it. But what about the links a subsequent page could visit? While the output here is correct given our input, we are still not accounting for all recursively visited pages in this example. 
 
 ![screenshot](images/p2f3.jpg)  
 *Figure 3. Program output with 'pages/index.html' and 'pages/pokemon.html as parameters.*
@@ -48,7 +48,5 @@ Minimum requirements: GNU Compiler Collection (GCC) version 9.3.0.
 sudo apt update
 sudo apt install build-essential
 ```
-
-Note: Parsing and crawling live webpages/websites is out of scope and therefore not tested.
 
 [Back to Portfolio](./)
