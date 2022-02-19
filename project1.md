@@ -15,7 +15,7 @@ Fatal Exception
 
 ## Project description
 
-Fatal Exception is an interactive, text based adventure game that provides the user with a bite-sized role playing experience where danger lurks around every corner. Take advantage of player customization and build your hero as a warrior, a mage, or even a thief! Battle ferocious foes and menacing monsters in your quest to defeat the endless tormenter: Infinite Loop. Every playthough requires a different strategy—will you survive and claim untold riches and glory, flee to fight another day, or succumb to your peril?
+Fatal Exception is an interactive, text based adventure game that provides the user with a bite-sized role playing experience where danger lurks around every corner. Take advantage of player customization and build your hero as a warrior, a mage, or even a thief! Battle ferocious foes and menacing monsters in your quest to defeat the endless tormenter: Infinite Loop. Every playthrough requires a different strategy—will you survive and claim untold riches and glory, flee to fight another day, or succumb to your peril?
 
 ## How to compile and run the program
 
