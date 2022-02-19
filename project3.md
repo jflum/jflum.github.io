@@ -23,7 +23,7 @@ chmod u+x magic.pl
 
 ## UI Design
 
-After starting the program, the user is presented with a difficulty selection menu. This sets the range of possible answers. For the purposes of this demonstration, I have selected ‘Novice’ which represents integers 1 through 100 (Fig.1). Note that all answers are non-zero, and thus guessing this value will allow the player to give up. 
+After starting the program, the user is presented with a difficulty selection menu. This sets the range of possible answers. For the purposes of this demonstration, I have selected ‘Standard’ which represents integers 1 through 100 (Fig.1). Note that all answers are non-zero, and thus guessing this value will allow the player to give up. 
 
 ![screenshot](images/p3f1.jpg)  
 *Figure 1. Selecting game difficulty (number range).*
@@ -38,6 +38,7 @@ Beginning the game, I attempt several guesses, initially halving the possibiliti
 
 Once the magic number has been found, the total number of turns required is presented. In this case it took me 9 guesses, which is average. From here, I can choose to either play again or to quit the program (as seen previously in Fig. 3). Selecting “yes …” to play again allows for a new, perhaps more challenging difficulty to be selected (Fig. 4).  
 ![screenshot](images/p3f4.jpg)  
+
 *Figure 4. Attempting to correctly guess the 'Expert' difficulty number.*
 
 ## Additional Considerations
