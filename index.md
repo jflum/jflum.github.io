@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [HTML Parser & Web Crawler | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/p2f4.jpg)
 
 ---
 ### [The Magic Number | CSCI 301](project3)
