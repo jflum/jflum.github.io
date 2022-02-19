@@ -6,6 +6,10 @@ Fatal Exception
 -   **Class:** CSCI 325 - Object-Oriented Programming
 -   **Grade:** A
 -   **Language(s):** Java
+-   **Contributors:** 
+    - Jonathan Flum - Concept Design, Player and Enemy character classes, primary game loop, menuing system 
+    - Adam Thiemann - Project Coordinator, Encounter and Statistics classes, gameplay balancing, RNG modifiers 
+    - Jenean Ambersley - Some narrative elements (withdrew early in development)
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -62,13 +66,13 @@ Progressing through the game, typographical mistakes may occur and input validat
 ![screenshot](images/p1f9.jpg)  
 *Figure 9. A high-level enemy attack that results in the premature end to your quest.*
 
-Upon defeat, a results screen is displayed, summarizing your adventure; additional options are also provided so that you may retry with either the same character, or perhaps a new build (Fig. 10). However, survive for long enough and you will ultimately encounter the game’s final boss, who lacks a true weakness. It will be the actions you have made along the way and the experience your character has gained that will determine your fate (Fig. 11). Unless you use the debug mode character class, as I have, to reliably reach this point in the game.
+Upon defeat, a results screen is displayed, summarizing your adventure; additional options are also provided so that you may retry with either the same character, or perhaps a new build (Fig. 10). However, survive for long enough and you will ultimately encounter the game’s final boss, who lacks a true weakness. It will be the actions you have made along the way and the experience your character has gained that will determine your fate (Fig. 11) ...unless you use the debug mode character class, as I have, to reliably reach this point in the game.
 
 ![screenshot](images/p1f10.jpg)  
 *Figure 10. End of play results screen, displaying quest statistics. Retry options are also presented.*
 
 ![screenshot](images/p1f11.jpg)  
-*Figure 11. The final enounter of the game, brought to you by cheat codes.*
+*Figure 11. The final enounter of the game, reached via a developer mode.*
 
 ## Additional Considerations
 
