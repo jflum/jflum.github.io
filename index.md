@@ -14,12 +14,12 @@ Programming Projects
 ---
 ### [HTML Parser & Web Crawler | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/p2f4.jpg)
+![HTML Parser and Web Crawler](images/p2f4.jpg)
 
 ---
 ### [The Magic Number | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![The Magic Number](images/p3f4.jpg)
 
 ---
 ### [Students Against Drunk Deriving | CSCI 334](project4)
