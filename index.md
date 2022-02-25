@@ -28,13 +28,10 @@ Programming Projects
 
 ---
 ### Bill of Material Manager | CSCI 419
-- Coming soon.
 ---
 ### Students Against Drunk Deriving | CSCI 334
-- Coming soon.
 ---
 ### Battleship (PvC) | CSCI 235
-- Coming soon.
 ---
 
 Ethics Papers
