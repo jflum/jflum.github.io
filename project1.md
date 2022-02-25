@@ -10,8 +10,7 @@ Fatal Exception
     - Jonathan Flum - Concept Design, Player and Enemy character classes, primary game loop, menuing system 
     - Adam Thiemann - Project Coordinator, Encounter and Statistics classes, gameplay balancing, RNG modifiers 
     - Jenean Ambersley - Some narrative elements (withdrew early in development)
--   **Video Demonstration:**
-    - [Watch on YouTube](https://youtu.be/-g8ZKAGLvvU) 
+-   **Video Demonstration:** [Watch on YouTube](https://youtu.be/-g8ZKAGLvvU) 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
