@@ -6,7 +6,7 @@ Fatal Exception
 -   **Class:** CSCI 325 - Object-Oriented Programming
 -   **Grade:** A
 -   **Language(s):** Java
--   **Contributors:** 
+-   **Contributors:**
     - Jonathan Flum - Concept Design, Player and Enemy character classes, primary game loop, menuing system 
     - Adam Thiemann - Project Coordinator, Encounter and Statistics classes, gameplay balancing, RNG modifiers 
     - Jenean Ambersley - Some narrative elements (withdrew early in development)
