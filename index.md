@@ -64,7 +64,7 @@ Presentations
 
 - **Class:** CSCI 301 - Survey of Scripting Languages 
 - **Grade:** A
-- [Watch video](https://youtu.be/nxjtsQdpTRY)
+- [Watch on YouTube](https://youtu.be/nxjtsQdpTRY)
 
 ### [Ethics in Computer Benchmarking](/pdf/Presentation_2_CSCI_209.pdf)
 
