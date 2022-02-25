@@ -22,15 +22,19 @@ Programming Projects
 ![The Magic Number](images/p3f4.jpg)
 
 ---
-### [Students Against Drunk Deriving | CSCI 334](project4)
+### [Simple UDP Client | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Simple UDP Client](images/p4f1.jpg)
 
 ---
-### [Battleship (PvC) | CSCI 235](project5)
-
-![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
-
+### Bill of Material Manager | CSCI 419
+- Coming soon.
+---
+### Students Against Drunk Deriving | CSCI 334
+- Coming soon.
+---
+### Battleship (PvC) | CSCI 235
+- Coming soon.
 ---
 
 Ethics Papers
