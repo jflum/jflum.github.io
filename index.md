@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Simple UDP Client | CSCI 332](project4)
 
-![Simple UDP Client](images/p4f1.jpg)
+![Simple UDP Client](images/p4f4.jpg)
 
 ---
 ### Bill of Materials Manager | CSCI 419
