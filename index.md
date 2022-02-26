@@ -27,11 +27,11 @@ Programming Projects
 ![Simple UDP Client](images/p4f4.jpg)
 
 ---
-### Bill of Materials Manager | CSCI 419
----
-### Students Against Drunk Deriving | CSCI 334
----
-### Battleship (PvC) | CSCI 235
+### Coming Soon!
+- Bill of Materials Manager | CSCI 419
+- Students Against Drunk Deriving | CSCI 334
+- Battleship (PvC) | CSCI 235
+
 ---
 
 Ethics Papers
