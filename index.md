@@ -27,7 +27,7 @@ Programming Projects
 ![Simple UDP Client](images/p4f1.jpg)
 
 ---
-### Bill of Material Manager | CSCI 419
+### Bill of Materials Manager | CSCI 419
 ---
 ### Students Against Drunk Deriving | CSCI 334
 ---
