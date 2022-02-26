@@ -22,7 +22,7 @@ g++ -o Server_task1.out Server_task1.cpp
 g++ -o Client_task2.out Client_task2.cpp
 ./Server_task1.out
 ```
-In a seperate terminal:
+In a separate terminal:
 ```
 cd ./UDPClient
 ./Client_task2.out
@@ -40,7 +40,7 @@ Next, we’ll start the client and specify a socket, using the same port previou
 ![screenshot](images/p4f2.jpg)  
 *Figure 2. Running the client program and entering socket and file information.*
 
-Switching back to the server terminal that was listening, we see information regarding the data that was sent (Fig. 3). For this particular file, the total file size was 6351 bytes, necessitating 7 packets, identified here as sequence numbers. Once the file is fully reassembled (after the final sequence), the program ends. To verify transfer, we can list our current directory which now contains a “Received_<timestamp>” file, which is identical to the original image, sans name/extension (Fig. 4).
+Switching back to the server terminal that was listening, we see information regarding the data that was sent (Fig. 3). For this particular file, the total file size was 6351 bytes, necessitating 7 packets, identified here as sequence numbers. Once the file is fully reassembled (after the final sequence), the program ends. To verify transfer, we can list our current directory which now contains a “Received_\<timestamp\>” file, which is identical to the original image, sans name/extension (Fig. 4).
 
 ![screenshot](images/p4f3.jpg)  
 *Figure 3. Viewing file transfer results of the server program.*
