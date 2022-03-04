@@ -24,7 +24,7 @@ g++ -o Client_task2 Client_task2.cpp
 ```
 In a separate terminal:
 ```
-cd ./UDPClient
+cd ./udp_client-1.01
 ./Client_task2
 ```
 
