@@ -16,7 +16,7 @@ The Magic Number is a simple game in which you must guess correctly an integer t
 ## How to run the program
 
 ```bash
-cd ./magic_number-main
+cd ./magic_number-1.01
 chmod u+x magic.pl 
 ./magic.pl
 ```
