@@ -16,7 +16,7 @@ The HTML Parser & Web Crawler program, as its name would indicate, parses webpag
 ## How to compile and run the program
 
 ```bash
-cd ./HTMLParseCrawl
+cd ./html_parse_crawl-main
 make
 ./html-test pages/*.html
 ```
