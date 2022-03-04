@@ -17,15 +17,15 @@ Provided the corresponding User Datagram Protocol (UDP) server program, the Simp
 ## How to compile and run the program
 
 ```bash
-cd ./udp_client-main
-g++ -o Server_task1.out Server_task1.cpp
-g++ -o Client_task2.out Client_task2.cpp
-./Server_task1.out
+cd ./udp_client-1.01
+g++ -o Server_task1 Server_task1.cpp
+g++ -o Client_task2 Client_task2.cpp
+./Server_task1
 ```
 In a separate terminal:
 ```
 cd ./UDPClient
-./Client_task2.out
+./Client_task2
 ```
 
 ## UI Design
