@@ -6,7 +6,7 @@ HTML Parser & Web Crawler
 -   **Class:** CSCI 315 - Data Structure Analysis
 -   **Grade:** A
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [jflum/html_parse_crawl](https://github.com/jflum/html_parse_crawl.git)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
