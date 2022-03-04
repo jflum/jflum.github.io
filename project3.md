@@ -6,8 +6,8 @@ The Magic Number
 -   **Class:** CSCI 301 - Survey of Scripting Languages
 -   **Grade:** A
 -   **Language(s):** Perl
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [jflum/magic_number](https://github.com/jflum/magic_number.git)  
+    (Please [email me](mailto:jflum@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
