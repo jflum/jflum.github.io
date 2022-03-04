@@ -21,7 +21,7 @@ Fatal Exception is an interactive, text based adventure game that provides the u
 ## How to compile and run the program
 
 ```bash
-cd ./FatalException
+cd ./fatal_exception-main
 javac ./src/fatalexception/*.java -d ./
 java fatalexception/FatalException
 ```
