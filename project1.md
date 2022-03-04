@@ -11,7 +11,7 @@ Fatal Exception
     - Adam Thiemann - Project Coordinator, Encounter and Statistics classes, gameplay balancing, RNG modifiers 
     - Jenean Ambersley - Some narrative elements (withdrew early in development)
 -   **Video Demonstration:** [Watch on YouTube](https://youtu.be/-g8ZKAGLvvU)
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [jflum/fatal_exception](https://github.com/jflum/fatal_exception.git)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
