@@ -7,8 +7,8 @@ Simple UDP Client
 -   **Grade:** A
 -   **Language(s):** C++
 -   **Video Demonstration:** [Watch on YouTube](https://youtu.be/H_QGWAo7pLw)
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [jflum/udp_client](https://github.com/jflum/udp_client.git)  
+    (Please [email me](mailto:jflum@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
